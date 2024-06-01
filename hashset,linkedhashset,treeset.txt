@@ -1,0 +1,29 @@
+In Automation Testing where you use HashSet, LinkedHashSet and TreeSet. Tell me the Scenarios.
+ 
+Answer:
+ 
+1. HashSet
+ 
+Scenario 1: Managing Unique Product Categories
+Consider a situation where you are automating tests for the product categorization functionality of an e-commerce website. Each product belongs to one or more categories, and you want to ensure that each category is unique to avoid duplicate categorization.
+ 
+Scenario 2: Managing Unique Destinations in a Travel Itinerary
+Consider a situation where you are automating tests for the itinerary functionality of a travel website. Users can create itineraries by adding destinations, and you want to ensure that each destination in the itinerary is unique.
+ 
+ 
+2. LinkedHashSet
+ 
+Scenario 1: Tracking Recently Viewed Products
+Consider a situation where you are automating tests for the product browsing functionality of an e-commerce website. You want to track and verify the recently viewed products in the order they were viewed by the user.
+ 
+Scenario 2: Tracking and Verifying Selected Hotel Features
+Consider a situation where you are automating tests for the hotel booking functionality of a travel website. Each hotel has various features (e.g., free Wi-Fi, parking, swimming pool), and you want to track and verify the selected features in the order they were selected by the user.
+java
+ 
+3. TreeSet
+ 
+Scenario 1: Sorting Product Prices
+Consider a situation where you are automating tests for the product listing functionality of an e-commerce website. Each product has a price, and you want to verify that the products are listed in ascending order based on their prices.
+ 
+Scenario 2: Sorting and Verifying Flight Prices
+Consider a situation where you are automating tests for the flight search functionality of a travel website. Each flight option has a price, and you want to verify that the flight options are displayed in ascending order based on their prices.
